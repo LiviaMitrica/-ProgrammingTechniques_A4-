@@ -1,0 +1,8 @@
+Order #1
+Date: 7/5/2020 16:22
+
+Items:
+name= ab , price=6.0
+name= abc , price=10.0
+
+Total: 16.0

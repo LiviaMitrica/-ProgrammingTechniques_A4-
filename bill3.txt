@@ -1,0 +1,8 @@
+Order #3
+Date: 7/5/2020 16:22
+
+Items:
+name= b , price=4.0
+name= c , price=4.0
+
+Total: 8.0
