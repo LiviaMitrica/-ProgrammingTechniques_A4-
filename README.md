@@ -12,3 +12,4 @@ The waiter can do the following operations:
 • compute the bill for an order
 The chef is notified each time it must cook food that is ordered through a waiter.
 
+![c6](https://user-images.githubusercontent.com/57355797/111455564-a14ed980-871e-11eb-988e-0545531d0943.PNG)
